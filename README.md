@@ -1,7 +1,7 @@
 anann
 =====
 
-Java library for execution of discrete events simulations
+Java library for execution of discrete events simulations, for Java v1.6 or higher.
 
 FAQ
 ===
