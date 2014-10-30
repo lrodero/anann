@@ -3,6 +3,10 @@ anann
 
 Java library for execution of discrete events simulations, for Java v1.6 or higher.
 
+License
+=======
+Anann is released under the [GNU General Public License v3.0](http://www.gnu.org/copyleft/gpl.html).
+
 How to use it
 =============
 There is an example of how to use this software in the `org.anann.tests.PipeSimulation.java` file. 
